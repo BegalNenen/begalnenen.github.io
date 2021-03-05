@@ -1,21 +1,21 @@
 <nav class="w3-sidebar w3-bar-block w3-collapse w3-animate-left w3-card" style="z-index:3;width:250px;" id="mySidebar">
  <a class="w3-bar-item w3-teal w3-large">DAFTAR TOOLS</a>
- <a class="w3-bar-item w3-button" href="/youtube-to-mp3">Youtube to Mp3</a>
-  <a class="w3-bar-item w3-button" href="/facebook-downloader">Facebook Downloader</a>
-  <a class="w3-bar-item w3-button" href="/tiktok-downloader">Tik Tok Downloader</a>
+ <a class="w3-bar-item w3-button" href="https://lepita.herokuapp.com/youtube-to-mp3">Youtube to Mp3</a>
+  <a class="w3-bar-item w3-button" href="https://lepita.herokuapp.com/facebook-downloader">Facebook Downloader</a>
+  <a class="w3-bar-item w3-button" href="https://lepita.herokuapp.com/tiktok-downloader">Tik Tok Downloader</a>
   <hr>
   <div>
     <a class="w3-bar-item w3-button" onclick="myAccordion('demo')" href="javascript:void(0)">Others Tools <i class="fa fa-caret-down"></i></a>
     <div id="demo" class="w3-hide">
-      <a class="w3-bar-item w3-button" href="/corona">Pantau Corona</a>
-      <a class="w3-bar-item w3-button" href="/text-generator">Text Generator</a>
-      <a class="w3-bar-item w3-button" href="/password-generator">Password Generator</a>
- <a class="w3-bar-item w3-button" href="/al-quran">Al Quran Online</a>
-<a class="w3-bar-item w3-button" href="/random-number">Random Number</a>
+      <a class="w3-bar-item w3-button" href="https://lepita.herokuapp.com/corona">Pantau Corona</a>
+      <a class="w3-bar-item w3-button" href="https://lepita.herokuapp.com/text-generator">Text Generator</a>
+      <a class="w3-bar-item w3-button" href="https://lepita.herokuapp.com/password-generator">Password Generator</a>
+ <a class="w3-bar-item w3-button" href="https://lepita.herokuapp.com/al-quran">Al Quran Online</a>
+<a class="w3-bar-item w3-button" href="https://lepita.herokuapp.com/random-number">Random Number</a>
    </div>
   </div>
   <hr>
- <a class="w3-bar-item w3-button" href="/about">About</a>
+ <a class="w3-bar-item w3-button" href="https://lepita.herokuapp.com/about">About</a>
 
 </nav>
 
